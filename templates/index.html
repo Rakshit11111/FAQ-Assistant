@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>FAQ Assistant</h1>
+        <p class="subtext">Get instant answers to your questions</p>
+        <div class="query-box">
+            <input type="text" id="query" placeholder="Type your question here...">
+            <button onclick="askQuestion()">Ask</button>
+        </div>
+        <div class="response-box">
+            <p id="response">Your answer will appear here...</p>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
