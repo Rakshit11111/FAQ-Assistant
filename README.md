@@ -17,7 +17,7 @@ If you need to clone the repository from GitHub:
 git clone https://github.com/Rakshit11111/FAQ-Assistant.git
 ```
 ```
-cd faq-assistant
+cd FAQ-Assistant
 ```
 ## 2️⃣ Create & Activate Virtual Environment
 ```
