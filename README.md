@@ -14,7 +14,7 @@
 If you need to clone the repository from GitHub:
 
 ```
-https://github.com/Rakshit11111/FAQ-Assistant.git
+git clone https://github.com/Rakshit11111/FAQ-Assistant.git
 ```
 ```
 cd faq-assistant
