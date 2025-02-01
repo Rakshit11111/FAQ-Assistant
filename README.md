@@ -35,7 +35,7 @@ pip install -r requirements.txt
 Create a .env file in the project root with the following content:
 
 ```
-OPENAI_API_KEY=
+OPENAI_API_KEY=Your_api_key
 MONGO_URI=mongodb://your_mongo_uri  # Replace with actual URI or local host
 ```
 
