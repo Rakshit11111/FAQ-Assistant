@@ -61,7 +61,7 @@ http://127.0.0.1:5000/
 ```
 
 ## 📜 Notes
-> The .env file and venv folder are not uploaded to GitHub for security reasons.
+> venv folder are not uploaded to GitHub for security reasons.
 
 > Ensure MongoDB is running if using a local database.
 
