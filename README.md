@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 ## 🌍 Environment Variables
 
-Create a .env file in the project root with the following content:
+Edit a .env file in the project root with the following content:
 
 ```
 OPENAI_API_KEY=Your_api_key
